@@ -9,7 +9,7 @@ When some problems occur with automatic installation or you want to customize th
 Manual Installation [Click Here](https://docs.microsoft.com/zh-cn/windows/wsl/install-manual)
 
 ## MobaXterm
-A very useful tool for connecting WSL in windows and SJTU bl-0 server. It also provides visualization , which is necessary when drawing plots.\
+A very useful tool for **Windows 10 users** to connect WSL and SJTU bl-0 server. It also provides visualization , which is necessary when drawing plots. Unnecessary for Macbook users \
 Official webpage [Click Here](https://mobaxterm.mobatek.net/)
 
 ## VScode

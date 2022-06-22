@@ -44,4 +44,5 @@ Geant 4 build options. If customization is needed, these options should be speci
 ## musrSim
 A simulation software based on Geant 4 and ROOT.\
 Source code [Click Here](https://www.psi.ch/en/lmu/geant4-simulations#source-code-of-musrsim)\
-Installation: Follow the same process as building and installing from source code of ROOT and Geant 4. 
+Installation: Follow the same process as building and installing from source code of ROOT and Geant 4.\
+User guide manual [Click Here](https://www.psi.ch/sites/default/files/import/lmu/DevGeant4SimulationEN/musrSim.pdf)

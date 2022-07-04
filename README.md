@@ -20,6 +20,7 @@ Tutorial for SSH Server setup (connet bl-0 server) [Click Here](https://code.vis
 
 ## CLion (Optional)
 Another powerful tool to operate C/C++ based project. It also supports WSL and SSH server. Although until now I've not successfully connect to bl-0 server on Windows 10, it is worth trying. It works quite well in WSL.\
+To successfully connect to WSL, be sure to install basic C/C++ dependencies such as cmake, make, gdb and so on in your Linux system before using CLion.\
 Official webpage [Click Here](https://www.jetbrains.com/clion/)\
 You can use it free of charge as long as you get the individual license for students with your education e-mail. It need to be refreshed every year. [Click Here](https://www.jetbrains.com/community/education/#students)\
 Tutorial for WSL setup [Click Here](https://www.jetbrains.com/help/clion/how-to-use-wsl-development-environment-in-product.html#wsl-tooclhain)\
@@ -33,6 +34,10 @@ Build from source guide. Quote from webpage: ```In case no other installation me
 
 ROOT Topical Manual. It provides basic operation tutorial in detail for some most commonly used classes such as Histogram or Tree. This manual is quite handy for daliy use and reference. [Click Here](https://root.cern/topical/)\
 For further reference, use ROOT Reference Guide, which is a bit prolix and esoteric. [Click Here](https://root.cern/doc/master/)
+
+Tutorial on how to read and write a ROOT file:\
+Video recording: [Click Here](https://jbox.sjtu.edu.cn/l/a1ELbD)\
+Slides and other materials: [Click Here](https://jbox.sjtu.edu.cn/l/d1Gq7D)
 
 ## Geant 4
 Another indispensable simulation framework for particle physics.\

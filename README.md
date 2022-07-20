@@ -41,7 +41,8 @@ Slides and other materials: [Click Here](https://jbox.sjtu.edu.cn/l/d1Gq7D)
 
 ## Geant 4
 Another indispensable simulation framework for particle physics.\
-**Caution: If Geant4 is used for musrSim, be sure to install the version <font color=red>10.7.2</font> rather than the latest version**\
+**Caution: If Geant4 is used for musrSim, be sure to install the version <font color=red>10.7.2</font> rather than the latest version.** Source code: [Click Here](https://github.com/Geant4/geant4/releases)\
+**Caution: Before running cmake, be sure to add the cmake option: `-DGEANT4_INSTALL_DATA=ON`. Otherwise Geant4 will not work.**\
 Getting Started page [Click Here](https://geant4.web.cern.ch/support/getting_started)\
 Download Source Code [Click Here](https://geant4.web.cern.ch/support/download)\
 Building and Installing from Source Guide [Click Here](https://geant4-userdoc.web.cern.ch/UsersGuides/InstallationGuide/html/installguide.html#buildandinstall)\

@@ -36,7 +36,7 @@ ROOT Topical Manual. It provides basic operation tutorial in detail for some mos
 For further reference, use ROOT Reference Guide, which is a bit prolix and esoteric. [Click Here](https://root.cern/doc/master/)
 
 Tutorial on how to read and write a ROOT file:\
-Video recording: [Click Here](https://jbox.sjtu.edu.cn/l/a1ELbD)\
+Video recording: [Click Here](https://jbox.sjtu.edu.cn/l/g1qYpq)\
 Slides and other materials: [Click Here](https://jbox.sjtu.edu.cn/l/d1Gq7D)
 
 ## Geant 4
